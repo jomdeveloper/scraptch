@@ -1,0 +1,23 @@
+{
+    "name": "jomdeveloper/scraptch",
+    "description": "Scraptch a php framework.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jomanuel R. Ponferrada",
+            "email": "ponferrada.jomanuel@gmail.com"
+        }
+    ],
+    "autoload": {
+        "file": [],
+        "psr-4": {
+            "Scraptch\\": "src/"
+        },
+        "classmap": []
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
